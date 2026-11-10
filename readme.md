@@ -1,4 +1,19 @@
-## NIS3607 区块链生成及攻击
+<div align="center">
+
+# ⛓️ Nis3607-01-blockchain
+
+**PoW blockchain simulator: honest mining, fork attack & selfish mining**
+**PoW 区块链挖矿模拟：正常出块、分叉攻击与自私挖矿**
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=flat-square&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
+![Topic](https://img.shields.io/badge/Topic-Blockchain%20Security-orange?style=flat-square)
+
+</div>
+
+---
+
+> **English** — Course project for *NIS3607*. It simulates Proof-of-Work mining with multiple miner nodes and reproduces two classic attacks: the **fork attack** and **selfish mining**. Mining parameters and attacker settings live in `config/*.ini`.
 
 区块链技术及其共识机制（如 PoW）为构建信任、透明和安全的数字环境提供了基础。随着数字资产和去中心化应用的不断发展，区块链及其相关技术将在多个领域发挥越来越重要的作用。
 
